@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1275.13px" height="951.095px" viewBox="0 0 1275.13 951.095" enable-background="new 0 0 1275.13 951.095"
+	 xml:space="preserve">
+<g id="Layer_1">
+	<rect y="0" fill="#757575" width="1275.13" height="951.095"/>
+	<rect y="0" fill="#FFFFFF" stroke="#BDBDBD" stroke-width="0.5" stroke-miterlimit="10" width="1275.13" height="104.688"/>
+	<rect x="684.719" y="408.175" fill="#FFFFFF" width="565" height="513.511"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="26.665" y="130.232" width="640" height="792.655"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 0 1.907349e-06)" clip-path="url(#SVGID_2_)">
+			
+				<image overflow="visible" width="2880" height="1800" xlink:href="../../../../../Desktop/Screen Shot 2015-10-17 at 14.05.04.png"  transform="matrix(0.5397 0 0 0.5397 -491.0276 25.544)">
+			</image>
+		</g>
+	</g>
+	<rect x="684.719" y="128.731" fill="#26C6DA" width="565" height="263.992"/>
+	<g>
+		<text transform="matrix(1 0 0 1 88.8907 82.316)"><tspan x="0" y="0" fill="#26C6DA" font-family="'AdventPro-Regular'" font-size="46.2454">mood</tspan><tspan x="100.952" y="0" fill="#757575" font-family="'AdventPro-Regular'" font-size="46.2454">maps</tspan></text>
+	</g>
+</g>
+<g id="Layer_2">
+	<text transform="matrix(1 0 0 1 841.8016 233.9012)" fill="#FFFFFF" font-family="'Roboto-Light'" font-size="30">Enter your location</text>
+	<text transform="matrix(1 0 0 1 853.6615 479.0713)"><tspan x="0" y="0" fill="#757575" font-family="'Roboto-Light'" font-size="30">Select your </tspan><tspan x="154.131" y="0" fill="#757575" font-family="'Roboto-Light'" font-size="30">mood</tspan></text>
+	<text transform="matrix(1 0 0 1 770.6473 666.792)" fill="#757575" font-family="'Roboto-Light'" font-size="18.8194">Happy</text>
+	<text transform="matrix(1 0 0 1 773.0828 825.1293)" fill="#757575" font-family="'Roboto-Light'" font-size="18.8194">Bored</text>
+	<text transform="matrix(1 0 0 1 948.1104 666.792)" fill="#757575" font-family="'Roboto-Light'" font-size="18.8194">Sad</text>
+	<text transform="matrix(1 0 0 1 940.5606 825.1293)" fill="#757575" font-family="'Roboto-Light'" font-size="18.8194">Crazy</text>
+	<text transform="matrix(1 0 0 1 1108.291 666.792)" fill="#757575" font-family="'Roboto-Light'" font-size="18.8194">Angry</text>
+	<rect x="724.303" y="273.987" fill="#FFFFFF" width="482.833" height="53.648"/>
+	<g>
+		
+			<circle fill="none" stroke="#BDBDBD" stroke-width="3.4985" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1169.564" cy="298.38" r="9.971"/>
+		
+			<line fill="none" stroke="#BDBDBD" stroke-width="3.4985" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1176.717" y1="305.848" x2="1186.774" y2="314.172"/>
+	</g>
+	<g>
+		
+			<circle fill="none" stroke="#E91E63" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="797.439" cy="594.589" r="45.541"/>
+		<g>
+			
+				<path fill="none" stroke="#E91E63" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M812.58,604.66c-2.744,5.003-8.061,8.396-14.17,8.396c-6.376,0-11.889-3.695-14.514-9.06"/>
+			<circle fill="#E91E63" cx="785.134" cy="582.504" r="6.38"/>
+			<circle fill="#E91E63" cx="809.744" cy="582.504" r="6.38"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#0097A7" d="M1409.006,462.135c-24.405,0-44.261-19.855-44.261-44.261s19.855-44.261,44.261-44.261
+			s44.261,19.855,44.261,44.261S1433.411,462.135,1409.006,462.135z M1409.006,379.93c-20.923,0-37.944,17.021-37.944,37.944
+			s17.021,37.944,37.944,37.944s37.944-17.021,37.944-37.944S1429.929,379.93,1409.006,379.93z"/>
+		<g>
+			<path fill="#0097A7" d="M1409.883,437.699c-6.827,0-12.935-3.812-15.938-9.946c-0.767-1.566-0.118-3.459,1.448-4.226
+				c1.565-0.766,3.459-0.12,4.226,1.448c1.935,3.952,5.867,6.407,10.264,6.407c4.171,0,8.01-2.275,10.019-5.938
+				c0.839-1.53,2.761-2.087,4.288-1.251c1.529,0.839,2.09,2.759,1.251,4.288C1422.322,434.168,1416.361,437.699,1409.883,437.699z"
+				/>
+			<circle fill="#0097A7" cx="1397.9" cy="406.967" r="5.759"/>
+			<circle fill="#0097A7" cx="1420.112" cy="406.967" r="5.759"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#26C6DA" d="M62.861,84.236c-26.89-24.22-25.483-40.361-25.483-40.361c0-14.141,11.464-25.605,25.605-25.605
+				s25.605,11.464,25.605,25.605c0,0,0.783,18.048-24.773,39.598L62.861,84.236z"/>
+			<circle fill="#FFFFFF" cx="62.983" cy="43.875" r="16.387"/>
+		</g>
+		
+			<path fill="none" stroke="#757575" stroke-width="2.8352" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M68.346,48.605c-1.111,2.027-3.265,3.401-5.74,3.401c-2.583,0-4.816-1.497-5.879-3.67"/>
+		<g>
+			<circle fill="#757575" cx="57.603" cy="40.243" r="2.558"/>
+			<circle fill="#757575" cx="67.469" cy="40.243" r="2.558"/>
+		</g>
+	</g>
+	<g>
+		
+			<circle fill="none" stroke="#0097A7" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="964.062" cy="594.589" r="45.541"/>
+		<g>
+			
+				<path fill="none" stroke="#0097A7" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M979.203,604.66c-2.744,5.003-8.061,8.396-14.17,8.396c-6.376,0-11.889-3.695-14.514-9.06"/>
+			<circle fill="#0097A7" cx="951.757" cy="582.504" r="6.38"/>
+			<circle fill="#0097A7" cx="976.368" cy="582.504" r="6.38"/>
+		</g>
+	</g>
+	<g>
+		
+			<circle fill="none" stroke="#FFAB00" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1132.454" cy="594.589" r="45.541"/>
+		<g>
+			
+				<path fill="none" stroke="#FFAB00" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M1147.595,604.66c-2.744,5.003-8.061,8.396-14.17,8.396c-6.376,0-11.889-3.695-14.514-9.06"/>
+			<circle fill="#FFAB00" cx="1120.149" cy="582.504" r="6.38"/>
+			<circle fill="#FFAB00" cx="1144.759" cy="582.504" r="6.38"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1103.4531 825.1298)" fill="#757575" font-family="'Roboto-Light'" font-size="18.8194">Fearful</text>
+	<g>
+		
+			<circle fill="none" stroke="#8BC34A" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1132.454" cy="748.85" r="45.541"/>
+		<g>
+			
+				<path fill="none" stroke="#8BC34A" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M1147.595,758.921c-2.744,5.003-8.061,8.396-14.17,8.396c-6.376,0-11.889-3.695-14.514-9.06"/>
+			<circle fill="#8BC34A" cx="1120.149" cy="736.765" r="6.38"/>
+			<circle fill="#8BC34A" cx="1144.759" cy="736.765" r="6.38"/>
+		</g>
+	</g>
+	<g>
+		
+			<circle fill="none" stroke="#1E88E5" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="797.439" cy="748.85" r="45.541"/>
+		<g>
+			
+				<path fill="none" stroke="#1E88E5" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M812.58,758.921c-2.744,5.003-8.061,8.396-14.17,8.396c-6.376,0-11.889-3.695-14.514-9.06"/>
+			<circle fill="#1E88E5" cx="785.134" cy="736.765" r="6.38"/>
+			<circle fill="#1E88E5" cx="809.744" cy="736.765" r="6.38"/>
+		</g>
+	</g>
+	<g>
+		
+			<circle fill="none" stroke="#AB47BC" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="964.062" cy="748.85" r="45.541"/>
+		<g>
+			
+				<path fill="none" stroke="#AB47BC" stroke-width="6.9991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M979.203,758.921c-2.744,5.003-8.061,8.396-14.17,8.396c-6.376,0-11.889-3.695-14.514-9.06"/>
+			<circle fill="#AB47BC" cx="951.757" cy="736.765" r="6.38"/>
+			<circle fill="#AB47BC" cx="976.368" cy="736.765" r="6.38"/>
+		</g>
+	</g>
+</g>
+</svg>

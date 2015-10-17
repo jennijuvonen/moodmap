@@ -1,0 +1,86 @@
+body {
+		background-color:#666666;
+}
+
+
+#logo {
+	padding:20px 0 10px 40px;
+	height:100px;
+	background-color:#fff;
+	height:100%;
+	width: 100%;
+}
+
+.container {
+	width: 100%;
+}
+
+#map{
+	padding: 20px 0 20px 0;
+}
+
+#address {
+	background-color:#26c6da;
+	padding: 10px;
+    margin-top: 20px;
+	height: 250px;
+}
+
+#address-box {
+    height: 35px;
+    width: 300px;
+    background-color: #fff;
+    text-align: center;
+    margin: 15px auto;
+    border-radius:5px;
+}
+
+#address-box img {
+    float: right;
+    height: 24px;
+    margin: 5px;	
+}
+
+#mood {
+	background-color:#FFF;
+    margin-top:10px;
+	height: 370px;
+}
+#mood img{
+	text-align: center;
+	margin: auto;
+}
+
+p {
+	font-size: 17px;
+	font-family:'Roboto', sans-serif;
+	font-weight: 300;    
+	text-align: center;
+	padding-top: 10px;
+}
+
+h1 {
+	font-size: 25px;
+	font-family:'Roboto', sans-serif;
+	font-weight: 300;    
+	text-align: center;
+	padding: 30px 0 15px 0;
+}
+
+
+#address h1 {
+	color:#FFF;
+}
+
+#mood h1 {
+	color:#757575;
+
+}
+
+.col-md-12 {
+	padding:0px;
+}
+
+.col-md-4 {
+	text-align:center;
+}
