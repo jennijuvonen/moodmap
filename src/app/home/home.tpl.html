@@ -1,47 +1,85 @@
-<link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
-	
 
 	<div class="row">
-
-  	 <div id="logo"><img src="assets/images/moodmaps_logo.svg"/></div>
-  	</div>
-</div>
-
-
-<div class="container">
-
-<div class="row">
-  <div class="col-md-6">
-  	<div id="map">
-  	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6417.597467492952!2d25.381160350000002!3d36.46241995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2s!4v1431439403498" width="100%" height="640" frameborder="0" style="border:0"></iframe>
+    <div id="logo"><img src="assets/images/moodmaps_logo.svg"/></div>
   </div>
-  </div>
-  <div class="col-md-6">
-		<div class="col-md-12">
-			<div id="address"><h1>Enter your location</h1>
-				<div class="col-md-12">
-					<div id="address-box"><img src="assets/images/icon_search.svg"/></div>
-				</div>
-		</div>
-		<div class="col-md-12">
+
+  <div class="row">
+    <div class="col-md-6">
+      <div id="map" style="width: 100%; height: 400px; background: grey"></div>
+      <div id="allMoodsDiv">
+        <!--need to use ng-click for angular -->
+        <button ng-click="allMoods()">All Moods</button>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+		    <div class="col-md-12">
+			       <div id="address"><h1>Enter your location</h1>
+				           <div class="col-md-12">
+					                <div id="address-box"><img src="assets/images/icon_search.svg"/></div>
+				            </div>
+		        </div>
+        </div>
+		      <div class="col-md-12">
 			<div id="mood">
 
 				<h1>Select your mood</h1>
 
 				<div class="row">
-  					<div class="col-md-4"><img src="assets/images/icon_happy.svg"/><p>Happy</p></div>
-  					<div class="col-md-4"><img src="assets/images/icon_sad.svg"/><p>Sad</p></div>
-  					<div class="col-md-4"><img src="assets/images/icon_angry.svg"/><p>Angry</p></div>
+
+          <!-- <input type="radio" name="id[9]" value="70" id="attrib-9-70" class="threads-opts" />
+          <label class="attribsRadioButton" for="attrib-9-70">
+              <img src="images/attributes/SL01_thumb.jpg" alt="" width="100" height="100" />
+          </label> -->
+
+
+  					<div class="col-md-4">
+              <input id="happy_mood" type="radio" name="mood_changer" value="happy" ng-model="mood" class="threads-opts" >
+              <label class="attribsRadioButton" for="happy_mood">
+                <img src="assets/images/icon_happy.svg"/><p>Happy</p>
+              </label>
+            </div>
+
+  					<div class="col-md-4">
+              <input id="sad_mood" type="radio" name="mood_changer" value="sad" ng-model="mood" class="threads-opts">
+              <label class="attribsRadioButton" for="sad_mood">
+                <img src="assets/images/icon_sad-02.svg"/><p>Sad</p>
+              </label>
+            </div>
+
+  					<div class="col-md-4">
+              <input id="angry_mood" type="radio" name="mood_changer" value="angry" ng-model="mood" class="threads-opts">
+              <label class="attribsRadioButton" for="angry_mood">
+                <img src="assets/images/icon_angry-02.svg"/><p>Angry</p>
+              </label>
+            </div>
 				</div>
 
+
 				<div class="row">
-  					<div class="col-md-4"><img src="assets/images/icon_bored.svg"/><p>Bored</p></div>
-  					<div class="col-md-4"><img src="assets/images/icon_crazy.svg"/><p>Crazy</p></div>
-  					<div class="col-md-4"><img src="assets/images/icon_fearful.svg"/><p>Fearful</p></div>
+  					<div class="col-md-4">
+              <input id="bored_mood" type="radio" name="mood_changer" value="bored" ng-model="mood" class="threads-opts">
+              <label class="attribsRadioButton" for="bored_mood">
+                <img src="assets/images/icon_bored-02.svg"/><p>Bored</p>
+              </label>
+            </div>
+
+  					<div class="col-md-4">
+              <input id="crazy_mood" type="radio" name="mood_changer" value="crazy" ng-model="mood" class="threads-opts">
+              <label class="attribsRadioButton" for="crazy_mood">
+                <img src="assets/images/icon_crazy-02.svg"/><p>Crazy</p>
+              </label>
+            </div>
+
+  					<div class="col-md-4">
+              <input id="fearful_mood" type="radio" name="mood_changer" value="fearful" ng-model="mood" class="threads-opts">
+              <label class="attribsRadioButton" for="fearful_mood">
+                <img src="assets/images/icon_fearful-02.svg"/><p>Fearful</p>
+              </label>
+            </div>
 				</div>
 
 			</div>
 		</div>
   </div>
-</div>
 </div>

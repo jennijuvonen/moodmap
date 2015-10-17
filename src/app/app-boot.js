@@ -3,6 +3,7 @@ angular
       'templates-app',
       'templates-common',
       'application.home',
+      'application.placeholder',
       'ui.router'
   ])
   .run(run);

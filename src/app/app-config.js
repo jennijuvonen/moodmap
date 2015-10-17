@@ -5,5 +5,5 @@ angular
 ApplicationConfig.$inject = ['$urlRouterProvider', '$httpProvider'];
 
 function ApplicationConfig($urlRouterProvider, $httpProvider) {
-  $urlRouterProvider.otherwise('home');
+  // $urlRouterProvider.otherwise('home');
 }

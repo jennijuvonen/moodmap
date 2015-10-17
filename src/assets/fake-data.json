@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "mood": "happy",
+        "lat": "52.5159",
+        "lng": "13.3777",
+        "user-id": "test",
+        "date-time": "2015-10-17T17:30:20Z"
+    },
+    {
+        "id": "2",
+        "mood": "happy",
+        "lat": "52.5150",
+        "lng": "13.3770",
+        "user-id": "test",
+        "date-time": "2015-10-17T17:35:20Z"
+    },{
+        "id": "3",
+        "mood": "fearful",
+        "lat": "52.5160",
+        "lng": "13.3775",
+        "user-id": "test",
+        "date-time": "2015-10-17T15:30:20Z"
+    },{
+        "id": "4",
+        "mood": "crazy",
+        "lat": "52.5158",
+        "lng": "13.3776",
+        "user-id": "test",
+        "date-time": "2015-10-17T12:30:20Z"
+    }
+]
