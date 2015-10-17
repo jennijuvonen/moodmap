@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A basic AngularJS boilerplate  [![Build Status](https://travis-ci.org/gruberb/angular-boilerplate.svg?branch=master)](https://travis-ci.org/gruberb/angular-boilerplate)
 
 A basic template with
@@ -27,3 +28,6 @@ The principles are still the same, so have a look at their documentation.
 `grunt serve`
 
 Open a browser and navigate to `localhost:9001`
+=======
+# moodmap
+>>>>>>> b5fb26c0a840970fef171b60bcb7eb8a27bfd59a
